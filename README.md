@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/codewithneeraj-official" width="150" style="border-radius:50%;" alt="Code with Neeraj's Image" />
+  <img src="https://avatars.githubusercontent.com/codewithneerajofficial" width="150" style="border-radius:50%;" alt="Code with Neeraj's Image" />
 
 
 </div>
