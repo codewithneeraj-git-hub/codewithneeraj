@@ -16,10 +16,10 @@
 
 <!-- Minimal Social (Professional only) -->
 <p align="center">
-  <a href="https://github.com/codewithneeraj-official">
+  <a href="https://github.com/neerajkumar-codewithneeraj">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/neeraj-kumar-1a4219308">
+  <a href="https://www.linkedin.com/in/neerajkumar-codewithneeraj">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codewithneeraj.netlify.app">
