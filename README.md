@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/codewithneeraj-git-hub" width="150" style="border-radius:50%;" alt="Code with Neeraj's Image" />
+  <img src="https://avatars.githubusercontent.com/codeWithNeerajOfficial" width="150" style="border-radius:50%;" alt="Code with Neeraj's Image" />
 
 
 </div>
@@ -16,10 +16,10 @@
 
 <!-- Minimal Social (Professional only) -->
 <p align="center">
-  <a href="https://github.com/neerajkumar-codewithneeraj">
+  <a href="https://github.com/codeWithNeerajOfficial">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/neerajkumar-codewithneeraj">
+  <a href="https://www.linkedin.com/in/code-with-neeraj">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codewithneeraj.netlify.app">
